@@ -1,7 +1,1 @@
 ls -la
-[A[A[C[C[C[C[C[C[C[C[C[C[C[C git status
-[D[A[C[C[C[C[C[C[C[C[ls -la
-[A[C[C[C[Cls -la
-[A[C[C[C[pw.
-[A[Cpwd
-
